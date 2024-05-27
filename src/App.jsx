@@ -16,7 +16,7 @@ function App() {
 
 
   const appStyles = {
-    backgroundImage: `url(../public/fortuna-1/fondo${image}.jpg)`,
+    backgroundImage: `url(../assets/fortuna-1/fondo${image}.jpg)`,
   }
 
   return (
